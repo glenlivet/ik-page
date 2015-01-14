@@ -1,3 +1,9 @@
+# maven
+target/*
+
+# eclipse
+.settings/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
